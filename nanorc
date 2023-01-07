@@ -25,7 +25,7 @@ set autoindent
 set backup
 
 ## The directory to put unique backup files in.
-set backupdir "/home/isac/.usr/nano_backups"
+set backupdir "~/.usr/nano_backups"
 
 ## Use bold text instead of reverse video text.
 # set boldtext
