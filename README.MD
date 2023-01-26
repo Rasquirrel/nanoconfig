@@ -1,4 +1,2 @@
 Meu Repositório
-
-Ui, eu abri o nano sem querer, que esquisito.
-
+Estou praticando o uso do Git.
